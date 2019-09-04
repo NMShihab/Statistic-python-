@@ -1,1 +1,6 @@
-Statistic(python)
+**_Statistics(Python)_**
+
+**Datasets:**
+* Iris
+
+**Histogram**
