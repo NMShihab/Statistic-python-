@@ -1,6 +1,6 @@
 **_Statistics(Python)_**
 
 **Datasets:**
-* Iris
+* [_Iris_](https://github.com/NMShihab/Statistic-python-/blob/master/iris.csv)
 
-**Histogram**
+**1. [Histogram](https://github.com/NMShihab/Statistic-python-/blob/master/histogram.ipynb)**
